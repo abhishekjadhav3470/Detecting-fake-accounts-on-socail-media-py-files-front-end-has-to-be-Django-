@@ -1,0 +1,11 @@
+matplotlib
+numpy
+pandas
+pip
+scikit-learn
+machine
+pybrain
+ipython
+gender-guesser
+
+#-e .
